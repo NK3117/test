@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1e5d4a5
 license: GPL-2.0
+name: test
 type: industry
+url: https://github.com/NK3117/test
 version: 6
